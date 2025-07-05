@@ -1,0 +1,28 @@
+header{
+    background-color: #fcebbe;
+}
+main{
+    background-color: #cccfff;
+}
+footer{
+    background-color: #754c00;
+}
+h1{
+    background-color: #e6e6e6;
+}
+h2{
+    background-color: #666666;
+}
+p{
+    background-color: #f6fe00;
+}
+div{
+    background-color: #8cc63f;
+}
+article{
+   border: dashed px #f79300;
+}
+section{
+    border: dashed 3px #009200;
+    display: flex;
+}

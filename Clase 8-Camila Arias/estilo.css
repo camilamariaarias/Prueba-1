@@ -1,0 +1,73 @@
+.Grupo1{
+    width: 250px;
+    margin: 15px;
+    background-color: rgb(84, 139, 240);
+    padding: 10px;
+    color: white;
+}
+.Grupo2{
+    width: 250px;
+    margin: 15px;
+    background-color: rgb(67, 133, 84);
+    padding: 10px;
+    color: white;
+}
+.Grupo3{
+    width: 250px;
+    margin: 15px;
+    background-color: rgb(138, 73, 73);
+    padding: 10px;
+    color: white;
+}
+.Grupo4{
+    width: 250px;
+    margin: 15px;
+    background-color: rgb(207, 206, 122);
+    padding: 10px;
+}
+.Fotos{
+    width: 250px;
+    height: 250px;
+}
+.Galerias{
+    width: 1200px;
+    margin: auto;
+    display: flex;
+}
+body{
+    background-color: black;
+}
+.a1{
+    background-image: url(Vincent\ van\ Gogh.jfif);
+    background-size: cover;
+}
+.b2{
+    background-image:url(Leonardo\ Da\ Vinci.jfif);
+    background-size: cover;
+}
+.c3{
+    background-image: url(Fernado\ Botero.jfif);
+    background-size: cover;
+}
+.d4{
+    background-image: url(Frida\ Kahlo.jfif);
+    background-size: cover;
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-top: 5px;
+    background-color: white;
+    font-family: "Titan One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+footer{
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+.Grupo1:hover{
+   background-color: rgb(44, 113, 240);
+}
